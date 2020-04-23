@@ -1,0 +1,221 @@
+p{
+	color:blue;
+	font-size:22px;
+}
+
+.listitem{
+	color:#208000;
+	font-size: 20px;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	padding: 5px;
+
+}
+
+.paragraph{
+	color:#0000cc;
+	font-size:1.7em;
+
+}
+
+#background {
+
+	background-color: #66ffd9;
+}
+
+#submit{
+	width:66px;
+	height:35px;
+	color:green;
+	background-color:orange;
+	border-radius:9px;
+	font-size: 15px;
+
+
+}
+
+#banner{
+
+	height:120px;
+	width:99%;
+	border:5px inset #4d4dff;
+	background-color:#1ac6ff;
+	border-radius: 10px;
+	text-align: center;
+	color:#000066;
+	font-size: 3em;
+	line-height: 2.3em;
+	margin-bottom: 35px;
+
+}
+
+#footer{height:120px;
+	width:99%;
+	border:5px outset #4d4dff;
+	background-color:#1ac6ff;
+	border-radius: 10px;
+	text-align: center;
+	color:#000066;
+	font-size: 1.7em;
+	line-height: 3.7em;
+}
+
+.hello{
+	width: 95%;
+	border-radius: 8px;
+	border: 5px inset #ff0000;
+}
+
+.wrap-trivia{
+	height:237px;
+	width: 340px;
+	border-radius: 8px;
+	border: 5px outset #ff0000;
+	margin-top: 25px;
+	padding: 50px;
+}
+
+.stayathomething {
+	color: #ff0000;
+	padding: 6px;
+	border: 5px outset  #00cc00;
+	font-size: 1.2em;
+	margin-bottom: 16px;
+}
+
+.preventgettingcovid19 {
+	font-size: 1.4em;
+}
+
+.wrap-text{
+	color: #ff0000;
+	font-size: 1.2em;
+}
+
+.navitems{
+	list-style-type: none;
+	display: inline;
+	margin-right: .3em;
+	padding: 2px 5px;
+
+}
+
+#navmenu{
+	text-align: center;
+	background-color: #ff8000;
+
+}
+ 
+a:link{
+ 	color: blue;
+
+ }
+a:visited{
+ 	color: purple;
+ }
+
+a:hover{
+ 	color: #ffff33;
+ }
+
+a:active{
+ 	color: #00ff55;
+ }
+
+.rightside {
+	float: right;
+	width: 48%;
+}
+
+.leftside {
+	float: left;
+	width: 48%;
+}
+
+.clearfloat {
+	clear:both;
+}
+
+.video {
+	width: 96%;
+	height: 240px;
+	border: 5px outset #ff0000;
+	border-radius: 8px;
+	margin-top: 10px;
+}
+
+.rightside-bottom {
+	float: right;
+	width: 48%;
+}
+
+.leftside-bottom {
+	float: left;
+	width: 48%;
+}
+
+.wordarttypeimage {
+	margin-top: 20px;
+	margin-right: 20px;
+	border: 5px inset #ff0000;
+	border-radius: 8px;
+	width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#one {
+	height: 150px;
+	width: 150px;
+	background-color: blue;
+	display: inline-block;
+	position :relative;
+	top: 200px;
+	left: 270px;
+	z-index: 2;
+}
+
+#two {
+	height: 150px;
+	width: 150px;
+	background-color: pink;
+	display: inline-block;
+	position: absolute;
+	z-index: 1;
+}
+
+#three {
+	height: 150px;
+	width: 150px;
+	background-color: black;
+	color:white;
+	display: inline-block;
+	position: fixed;
+	left: 25%;
+}
+
+#backround-h{
+	height: 2048px;
+}
