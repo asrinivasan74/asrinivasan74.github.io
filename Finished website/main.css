@@ -81,8 +81,7 @@ p{
 	border: 5px outset  #00cc00;
 	font-size: 1.2em;
 	margin-bottom: 16px;
-	width: 98%;
-	margin-left: 1%;
+	width: 99%;
 	margin-right: 1%;
 }
 
@@ -169,7 +168,14 @@ a:active{
 	border: 5px inset #ff0000;
 	border-radius: 8px;
 	width: 50%;
+
 }
+
+body {
+	overflow-x:hidden;
+}
+
+
 
 
 
